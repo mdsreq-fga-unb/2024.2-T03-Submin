@@ -8,6 +8,9 @@ nav:
     - visao/solucao.md
     - visao/estrategias.md
     - visao/cronograma.md
+    - visao/interacao.md
+    - visao/licoes.md
+    - visao/referencias.md
 
 theme:
   name: material
