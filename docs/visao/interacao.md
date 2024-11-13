@@ -1,5 +1,5 @@
 ---
-title: 'Interação Entre Equipe e Cliente'
+title: 'INTERAÇÃO ENTRE EQUIPE E CLIENTE'
 ---
 
 ## Composição da Equipe	
@@ -33,20 +33,21 @@ documentos e comunicação frequente e rápida.
 ### Processo de Validação
 
 Para garantir que o produto final atenda às expectativas do cliente e aos padrões de qualidade estabelecidos,
-implementaremos um processo de validação detalhado e estruturado:
+implementaremos um processo de validação detalhado e estruturado:<br/>
+<br/>
 1. **Testes Unitários e de Integração:** Desenvolvidos e executados pelos membros da equipe de
 desenvolvimento, esses testes asseguram que cada componente do software funcione corretamente de forma
 isolada (unitários) e em conjunto com os demais componentes (integração). José Felipe, Mateus Santos e
 Anne de Capdeville serão responsáveis por codificar esses testes, garantindo que todos os módulos se
-comportem conforme esperado antes de serem integrados ao ambiente de produção.
+comportem conforme esperado antes de serem integrados ao ambiente de produção.<br/>
 2. **Revisões de Código:** Durante as sprints, Marcelo de Araújo, o Analista de Qualidade, realizará revisões de
 código para garantir que o código não apenas atenda às especificações técnicas, mas também siga as
 melhores práticas de programação. Essas revisões ajudam a identificar potenciais falhas e áreas de
-melhoria, promovendo um desenvolvimento mais eficiente e de alta qualidade.
+melhoria, promovendo um desenvolvimento mais eficiente e de alta qualidade.<br/>
 3. **Testes de Aceitação do Usuário (UAT):** Antes da implementação final, realizamos sessões de Testes de
 Aceitação com a participação do cliente. O objetivo é validar se o sistema atende às necessidades do usuário
 final e se está alinhado com os requisitos do negócio. Esses testes serão conduzidos em um ambiente que
-simule o ambiente de produção para garantir resultados precisos.
+simule o ambiente de produção para garantir resultados precisos.<br/>
 4. **Demonstrações e Feedbacks:** Ao longo do processo de desenvolvimento, agendaremos demonstrações
 regulares com o cliente para apresentar as funcionalidades desenvolvidas. Isso permite que o cliente veja o
 progresso do produto e forneça feedback imediato, que será utilizado para ajustes e melhorias contínuas

@@ -1,5 +1,5 @@
 ---
-title: 'Referências Bibliográficas'
+title: 'REFERÉNCIAS BIBLIOGRÁFICAS'
 description: 'Unidade 1'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Lições Aprendidas'
+title: 'LIÇÕES APRENDIDAS'
 description: 'Unidade 1'
 ---
 
