@@ -1,4 +1,4 @@
-## Oque é o projetop?
+## Oque é o projeto?
 
 O objetivo do projeto Submin é desenvolver uma plataforma de gestão especializada para o setor de seguros, que automatize processos, minimize erros manuais e facilite o controle de comissões e documentos. A solução busca oferecer uma experiência eficiente e integrada para corretores e seguradoras, com potencial para expansão para outros setores com necessidades de gestão similares.
 
